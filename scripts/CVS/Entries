@@ -1,0 +1,52 @@
+/CalcComplexityOverDirectory.sh/1.5/Sun Jul 26 09:06:03 2009//
+/CalcComplexityOverRecent/1.14/Tue Mar  2 05:19:49 2010//
+/CalcMetricsOverRecent/1.35/Tue Apr  6 19:24:01 2010//
+/CalcSWB.py/1.2/Tue Mar 30 07:51:52 2010//
+/CplxAcrossLifetime.sh/1.3/Sun Jul 26 09:06:03 2009//
+/MakeRecentDirectorywithEntirePopulation.sh/1.8/Sat Feb 17 01:52:56 2007//
+/MakeSeedsRecent.sh/1.13/Wed Apr 11 03:59:18 2007//
+/MotifLengths.py/1.2/Sun Mar 14 08:24:23 2010//
+/algorithms.py/1.9/Sun Apr  4 09:54:18 2010//
+/anat2nwb.sh/1.3/Tue Feb  6 18:19:47 2007//
+/common_complexity.py/1.5/Tue Mar  2 05:19:49 2010//
+/common_functions.py/1.13/Sun Apr  4 18:11:04 2010//
+/common_metric.py/1.18/Tue Apr  6 19:24:01 2010//
+/common_motion.py/1.1/Thu Jan  7 23:50:32 2010//
+/common_stats.py/1.1/Thu Jan  7 23:50:32 2010//
+/complexity_file.py/1.2/Sat Nov 28 04:03:05 2009//
+/copy_brain_data.py/1.5/Wed Mar 31 09:48:23 2010//
+/datalib.py/1.7/Sun Mar 14 08:24:23 2010//
+/env_check.sh/1.3/Tue Feb  9 07:06:41 2010//
+/env_init.sh/1.2/Fri Oct  2 22:19:29 2009//
+/find_missing_files.py/1.1/Thu Apr  1 19:59:19 2010//
+/find_short_metrics.py/1.1/Thu Apr  1 21:16:58 2010//
+/fix_anatomy_files.py/1.1/Tue Mar  2 06:03:49 2010//
+/graphBrain/1.7/Wed Jul 15 03:45:23 2009//
+/iterators.py/1.3/Sun Mar 14 08:24:23 2010//
+/mplotNeuron/1.4/Sat Mar 24 17:59:31 2007//
+/networkx_extensions.py/1.1/Sun Mar 14 08:24:23 2010//
+/neuronStats.py/1.1/Sat Mar 28 02:56:59 2009//
+/plot/1.12/Mon Mar 29 03:29:56 2010//
+/plotAdamiComplexity/1.4/Tue May 20 16:44:43 2008//
+/plotNeuralComplexity/1.22/Sat Nov 28 04:03:05 2009//
+/plotNeuralComplexityComparison/1.13/Sat Nov  7 04:03:57 2009//
+/plotNeuralComplexityHistogram/1.3/Fri Jul  3 07:51:09 2009//
+/plotNeuralRhythms.py/1.1/Fri Jul  3 07:43:00 2009//
+/plotNeuron/1.7/Sun Apr  8 01:57:44 2007//
+/plotPedigree.sh/1.5/Thu Mar  6 02:46:19 2008//
+/plotStats/1.9/Thu Jan  7 23:50:32 2010//
+/plot_points.py/1.2/Sun Mar 14 08:24:23 2010//
+/plot_traces.py/1.5/Sun Mar 14 08:24:23 2010//
+/plotlib.py/1.7/Mon Mar 29 03:30:40 2010//
+/plotmode.py/1.4/Sun Mar 14 08:24:23 2010//
+/pw_agent.py/1.1/Fri Nov 20 00:42:30 2009//
+/pw_brainAnatomy.py/1.1/Fri Nov 20 00:42:30 2009//
+/pw_brainFunction.py/1.1/Fri Nov 20 00:42:30 2009//
+/rename_metrics.py/1.5/Sun Mar 28 02:33:18 2010//
+/rename_random_metrics.py/1.1/Sun Mar 14 08:13:30 2010//
+/test_datalib.py/1.4/Mon Mar  1 03:12:25 2010//
+/test_pw_agent.py/1.1/Fri Nov 20 00:42:30 2009//
+D/build////
+D/cluster////
+D/install////
+D/regression////
