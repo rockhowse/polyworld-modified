@@ -135,14 +135,14 @@ SOURCES += agent/agent.cp \
            utils/Variant.cp 
 
 win32 {
-INCLUDEPATH += D:\Tools\Qt\2010.02.1\mingw\include\GL \
-               D:\Tools\gsl-1.8-lib\include \
-               D:\Tools\boost_1_42_0
+INCLUDEPATH += F:\Qt\Tools\mingw48_32\i686-w64-mingw32\include\GL \
+               F:\work\gsl-1.8-lib\include \
+               F:\work\boost_1_43_0
 
-LIBS += -LD:\Tools\gsl-1.8-lib\lib \
+LIBS += -LF:\work\gsl-1.8-lib\lib \
         -lgsl \
         -lgslcblas \
-        -LD:\Tools\boost\boost_1_42\lib 
+        -LF:\work\boost_1_43_0\lib 
 }
 
 #-LD:\Tools\Qt\2010.02.1\mingw\lib \
