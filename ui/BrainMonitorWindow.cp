@@ -14,6 +14,9 @@
 #include <qsettings.h>
 #include <qcoreevent.h>
 
+// GL
+#include <glu.h>
+
 // Local
 #include "agent.h"
 #include "Brain.h"

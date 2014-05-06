@@ -18,6 +18,9 @@
 #include <qsettings.h>
 #include <QDesktopWidget>
 
+// GL
+#include <glu.h>
+
 // Local
 #include "error.h"
 #include "globals.h"

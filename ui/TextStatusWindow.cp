@@ -13,6 +13,9 @@
 #include <qpainter.h>
 #include <qsettings.h>
 
+// GL
+#include <glu.h>
+
 // Local
 #include "error.h"
 #include "globals.h"
